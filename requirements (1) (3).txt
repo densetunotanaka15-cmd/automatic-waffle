@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+Pillow
+pyttsx3
+
+print("Generated requirements.txt successfully.")
